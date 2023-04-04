@@ -6,4 +6,4 @@ would drastically increase medical respource efficiency. This model could also b
 the data in this project if only I had more time. There are four python notebook files: one containing the Exploratory data analysis, one with the base models, 
 logistic regression modelling and finally random forest modelling. Additionally, I have attached my presentation that I presented on the 31/03/2023 (final day of the academy).
 The raw dataset from kaggle can be sourced from: https://www.kaggle.com/datasets/meirnizri/covid19-dataset. 
-I had a lot of fun exploring and analysing this dataset! Although I did not manage to get a reasonalby good working model, this was a fantastic learning experience.
+I had a lot of fun exploring and analysing this dataset! Although I did not manage to get a good working model, this was a fantastic learning experience.
